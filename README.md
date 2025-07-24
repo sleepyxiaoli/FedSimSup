@@ -1,9 +1,8 @@
-FedSimSup: Personalized Federated Learning under Local Supervision  
-[Project Page](#) | [Paper](#)
+# FedSimSup: Personalized Federated Learning under Local Supervision
 
-FedSimSup: Personalized Federated Learning under Local Supervision  
-[Qiqi Liu*](#), [Jiaqiang Li*](#), [Yuchen Liu](#), [Yaochu Jin†](#), [Lingjuan Lyu](#), [Xiaohu Wu](#), [Han Yu](#)  
+FedSimSup: Personalized Federated Learning under Local Supervision   
 ICCV 2025
+
 
 <p align="center">
   <img src="pipeline.png" alt="FedSimSup Pipeline" width="80%">
