@@ -1,6 +1,5 @@
 # FedSimSup: Personalized Federated Learning under Local Supervision
 
-FedSimSup: Personalized Federated Learning under Local Supervision   
 ICCV 2025
 
 
